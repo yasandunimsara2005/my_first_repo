@@ -1,2 +1,8 @@
 # my_first_repo
-This is making for my training purpose only
+A beginner GitHub project
+created during the workshop
+
+## About Me 
+My name is **Yasandu**.
+I am Leaning GitHub.
+
